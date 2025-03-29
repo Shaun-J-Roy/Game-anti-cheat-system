@@ -1,0 +1,1 @@
+Player: 110, Speed: 110, Health: 120, Score: 450, Money: 1000000000, Detected Cheating: Yes
